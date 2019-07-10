@@ -1,2 +1,2 @@
-# MicroCoinWebWallet
-MicroCoin Web Wallet
+# MicroCoin Web Wallet
+
